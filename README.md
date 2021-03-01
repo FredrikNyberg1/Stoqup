@@ -1,2 +1,2 @@
 # Stoqup
-Landigpage or Stoqup
+Landingpage for Stoqup
